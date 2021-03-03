@@ -1,0 +1,4 @@
+# theme: jekyll-theme-minimal
+layouts_dir: _layouts
+markdown: kramdown
+highlighter: rouge
